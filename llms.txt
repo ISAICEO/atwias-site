@@ -1,0 +1,77 @@
+# Atwias
+
+> Atwias (Atwias Info Solutions Private Limited) is an agentic growth studio in Chennai, India. One team runs branding, performance marketing, sales enablement and AI-powered technology for brands in real estate, education, retail, FMCG, healthcare, entertainment and leisure. Atwias also builds Neuraura, a CRM for enquiry-led sales teams (https://neuraura.ai).
+
+## Contact
+- Email: grow@atwias.in
+- Phone / WhatsApp: +91 96001 22781
+- Office: AA56, 4th Street, Anna Nagar, Chennai 600040, Tamil Nadu, India
+- Website: https://atwias.ai/
+
+## Services (Atwias name → plain meaning)
+- Lore Lab → branding, identity, content, video and AI-search visibility (GEO)
+- Scroll-Stop Media → performance marketing: Meta, Google, YouTube and click-to-WhatsApp ads, creator campaigns, SEO
+- DM-to-Deal → sales enablement: fast lead response, qualification, follow-up, site-visit/walk-in conversion, CRM
+- Agent Stack → websites, Shopify stores, mobile apps, tracking and conversion APIs, automation, custom AI agents
+
+## How Atwias uses AI
+AI agents handle repetitive work (creative drafts, campaign monitoring, first replies to enquiries, follow-up reminders, weekly reports, AI-search checks). People approve brand voice, budgets and anything sent to customers.
+
+## Clients (37 brands)
+- Real estate: GP Homes, Stone & Acres, Wisdom Plots, Spyka
+- Entertainment & media: Disney+ Hotstar, aha, Lyca Productions, U1 Records, Arise Entertainment, AR Entertainment
+- Education: Vels University, SRM, SSN, SREC, SNS, VB Live
+- Retail & lifestyle: Vasanth & Co, Viveks, Supreme Mobiles, Shree Leathers, Lille by Challani, NAC Silvermine, Moglu
+- Leisure & experiences: VGP Universal Kingdom
+- FMCG & food: Aachi Group
+- Mattress & sleep: Repose, Raha, Coir-On
+- Health & wellness: Thaaimai Hospital, Dr. Arvind's IVF, Jade Aesthetics
+- Mobility: Revolt
+- Consumer internet & fintech: BharatMatrimony, Matrimony.com, Insuron
+- Ecosystem: StartupTN, CII
+
+## Glossary
+- Lore Lab: Branding, identity and content.
+- Prompt Presence: Showing up correctly in ChatGPT, Gemini and Google AI answers (also called GEO).
+- Scroll-Stop Media: Performance marketing: paid ads and search.
+- Thumb-Stop Ads: Ads designed to stop the scroll on Meta, Google and YouTube.
+- Search Rizz: SEO and local SEO.
+- Signal Loop: Sending real sales results back to ad platforms so they find better buyers.
+- DM-to-Deal: Sales enablement: what happens after the enquiry.
+- Speed-to-Lead: Replying to new enquiries within minutes, not days.
+- No-Ghost Follow-ups: A follow-up system so no lead goes quiet.
+- IRL Converter: Getting enquiries to site visits, walk-ins and appointments.
+- Agent Stack: Websites, apps, automation and custom AI agents.
+- Snap Sites: Fast-loading websites and landing pages.
+- Signal Wiring: Tracking setup: pixels, tags, conversion APIs, CRM connections.
+- Stan era: Repeat customers, referrals and reviews.
+
+## FAQ
+### What does Atwias do?
+Atwias Info Solutions is a Chennai-based agency that runs four disciplines as one team: branding and content, performance marketing (Meta, Google and WhatsApp ads, SEO), sales enablement and CRM, and web, app and AI development. We measure success in enquiries, site visits, walk-ins, admissions and sales.
+
+### What is an agentic growth studio?
+It means we use AI agents for repetitive work: drafting creative variations, watching campaign spend and lead quality, replying first to new enquiries, keeping follow-ups on track and writing weekly reports. People on our team approve your brand voice, budgets and anything sent to your customers.
+
+### Which industries does Atwias work with?
+Real estate, education, retail and D2C, FMCG, mattresses and home, healthcare, entertainment and media, and leisure. Clients include Disney+ Hotstar, Aachi Group, GP Homes, VGP Universal Kingdom, SRM, Vels University, Vasanth & Co, Lyca Productions, Revolt and StartupTN.
+
+### What is Neuraura?
+Neuraura is a CRM built by Atwias for sales teams that work on enquiries. Each company gets its own workspace for leads, calls, follow-ups, pipeline and site visits. It is a separate product at neuraura.ai and can be used with or without Atwias.
+
+### Can Atwias help my brand show up in ChatGPT, Gemini and Google AI answers?
+Yes. Our Prompt Presence service, also called generative engine optimisation (GEO), checks how AI assistants describe your brand today and fixes the content and structured data they rely on, then keeps checking over time.
+
+### How do engagements and pricing work?
+Every engagement starts with a discovery call. We agree scope, timeline and pricing after that, and media spend and platform subscriptions are billed separately. We work with monthly budgets from under ₹1 lakh to more than ₹10 lakh.
+
+### Where is Atwias located?
+Our office is at AA56, 4th Street, Anna Nagar, Chennai 600040, Tamil Nadu. We work with brands across Tamil Nadu and India. Email grow@atwias.in or WhatsApp +91 96001 22781.
+
+## Pages
+- [Home](https://atwias.ai/): overview, AI agent crew, client roster, FAQ
+- [Services](https://atwias.ai/stack/): the four service modes in detail
+- [Industries](https://atwias.ai/worlds/): real estate, education, retail & D2C, healthcare
+- [Clients](https://atwias.ai/receipts/): case studies and full client list
+- [Neuraura](https://atwias.ai/neuraura/): the CRM product built by Atwias
+- [About](https://atwias.ai/lore/): company and principles
