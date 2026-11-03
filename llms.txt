@@ -11,7 +11,7 @@
 ## Services (Atwias name → plain meaning)
 - Lore Lab → branding, identity, content, video and AI-search visibility (GEO)
 - Scroll-Stop Media → performance marketing: Meta, Google, YouTube and click-to-WhatsApp ads, creator campaigns, SEO
-- DM-to-Deal → sales enablement: fast lead response, qualification, follow-up, site-visit/walk-in conversion, CRM
+- Click-to-Close → sales enablement: fast lead response, qualification, follow-up, site-visit/walk-in conversion, CRM
 - Agent Stack → websites, Shopify stores, mobile apps, tracking and conversion APIs, automation, custom AI agents
 
 ## How Atwias uses AI
@@ -37,7 +37,7 @@ AI agents handle repetitive work (creative drafts, campaign monitoring, first re
 - Thumb-Stop Ads: Ads designed to stop the scroll on Meta, Google and YouTube.
 - Search Rizz: SEO and local SEO.
 - Signal Loop: Sending real sales results back to ad platforms so they find better buyers.
-- DM-to-Deal: Sales enablement: what happens after the enquiry.
+- Click-to-Close: Sales enablement: from the first click to the closed deal.
 - Speed-to-Lead: Replying to new enquiries within minutes, not days.
 - No-Ghost Follow-ups: A follow-up system so no lead goes quiet.
 - IRL Converter: Getting enquiries to site visits, walk-ins and appointments.
